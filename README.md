@@ -1,8 +1,8 @@
 # HumanVoiceRecognition
 # [人声/不同说话人声音]声纹检测
-## ---基于循环神经网络
+## ---基于循环神经网络(相关代码待上传)
 ***
-开源项目地址：https://github.com/pyannote/pyannote-audio
+参考开源项目地址：https://github.com/pyannote/pyannote-audio
 ***
 ## 1.描述
 pyannote.audio是一个用Python编写的开放源代码工具包，用于进行说话人检测。基于PyTorch深度学习框架，
